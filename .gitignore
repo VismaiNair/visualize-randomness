@@ -13,6 +13,8 @@
 migrate_working_dir/
 *.exe
 *.png
+*.wasm
+wasm_exec.js
 
 # IntelliJ related
 *.iml
