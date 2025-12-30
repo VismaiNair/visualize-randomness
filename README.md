@@ -1,16 +1,11 @@
-# frontend
+# visualize randomness
 
-A new Flutter project.
+## Purpose
+visualize randomness is a tool to demonstrate the intrigue and beauty of random simulations.
 
-## Getting Started
+## Sub-Projects
+* Random Walk Generator
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License Information
+* Output licensed under CC0. Check OUTPUT_LICENSE.md for more info.
+* Code licensed under BSD-3-Clause "New" or "Revised" License. Check LICENSE.md for more info.
